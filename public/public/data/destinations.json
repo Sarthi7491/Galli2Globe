@@ -1,0 +1,113 @@
+[
+  {
+    "id": "maldives-escape",
+    "name": "Maldives Overwater Escape",
+    "location": "Noonu Atoll, Maldives",
+    "badge": "Luxury",
+    "duration": "7 nights · All inclusive",
+    "price": 399900,
+    "tags": ["luxury", "wellness"],
+    "image": "/images/maldives-escape.jpg",
+    "alt": "Floating villas and turquoise lagoon in the Maldives"
+  },
+  {
+    "id": "patagonia-traverse",
+    "name": "Patagonia Glacier Traverse",
+    "location": "El Chaltén, Argentina",
+    "badge": "Adventure",
+    "duration": "10 days · Expedition",
+    "price": 289900,
+    "tags": ["adventure", "culture"],
+    "image": "/images/patagonia-traverse.jpg",
+    "alt": "Hiker overlooking Fitz Roy peaks in Patagonia"
+  },
+  {
+    "id": "bali-retreat",
+    "name": "Bali Mindful Retreat",
+    "location": "Ubud, Indonesia",
+    "badge": "Wellness",
+    "duration": "6 nights · Spa & craft",
+    "price": 189900,
+    "tags": ["wellness", "culture"],
+    "image": "/images/bali-retreat.jpg",
+    "alt": "Infinity pool overlooking rice terraces in Bali"
+  },
+  {
+    "id": "swiss-alps",
+    "name": "Swiss Alps Panorama Rail",
+    "location": "Zermatt, Switzerland",
+    "badge": "Scenic",
+    "duration": "8 days · Luxury rail",
+    "price": 349900,
+    "tags": ["luxury", "adventure"],
+    "image": "/images/swiss-alps.jpg",
+    "alt": "Snowy Swiss Alps with train passing through a valley"
+  },
+  {
+    "id": "kyoto-immersion",
+    "name": "Kyoto Culture Immersion",
+    "location": "Kyoto, Japan",
+    "badge": "Cultural",
+    "duration": "5 days · Insider access",
+    "price": 219900,
+    "tags": ["culture", "luxury"],
+    "image": "/images/kyoto-cultural.jpg",
+    "alt": "Traditional temple street in Kyoto at dusk"
+  },
+  {
+    "id": "sahara-caravan",
+    "name": "Sahara Stargazer Caravan",
+    "location": "Merzouga, Morocco",
+    "badge": "Signature",
+    "duration": "4 days · Desert camp",
+    "price": 159900,
+    "tags": ["adventure", "culture"],
+    "image": "/images/sahara-expedition.jpg",
+    "alt": "Camel caravan crossing the Sahara desert at sunset"
+  },
+  {
+    "id": "iceland-aurora",
+    "name": "Iceland Aurora Circuit",
+    "location": "Reykjavík & South Coast, Iceland",
+    "badge": "Aurora",
+    "duration": "6 days · 4x4 chase",
+    "price": 259900,
+    "tags": ["adventure", "luxury"],
+    "image": "/images/iceland-saga.jpg",
+    "alt": "Northern lights above Icelandic mountains"
+  },
+  {
+    "id": "newzealand-alpine",
+    "name": "New Zealand Alpine Loop",
+    "location": "Queenstown, New Zealand",
+    "badge": "Epic",
+    "duration": "9 days · Alpine road trip",
+    "price": 309900,
+    "tags": ["adventure", "wellness"],
+    "image": "/images/newzealand-alpine.jpg",
+    "alt": "Winding road beneath New Zealand mountains"
+  },
+  {
+    "id": "santorini-signature",
+    "name": "Santorini Signature Stay",
+    "location": "Oia, Greece",
+    "badge": "Signature",
+    "duration": "5 nights · Cliff villas",
+    "price": 279900,
+    "tags": ["luxury", "wellness"],
+    "image": "/images/santorini-sunset.jpg",
+    "alt": "Whitewashed Santorini cliffside at sunset"
+  },
+  {
+    "id": "namibia-dunes",
+    "name": "Namibia Red Dunes Sojourn",
+    "location": "Sossusvlei, Namibia",
+    "badge": "Wildlife",
+    "duration": "7 days · Desert flight",
+    "price": 249900,
+    "tags": ["adventure", "culture"],
+    "image": "/images/namibia-dunes.jpg",
+    "alt": "Sand dunes in Namibia with lone tree"
+  }
+]
+
